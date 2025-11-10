@@ -33,6 +33,8 @@ The dataset includes grocery item-level data collected from multiple BlinkIT out
 
 ## ⚙️ Dashboard Features
 
+![image alt](https://github.com/JAY7962/Blinkit_Dashboard/blob/d74e697467e8509b79d430065c56f6a3dee2d6a1/Images/Blinkit_Dashboard.png)
+
 ### 1️⃣ Key Performance Indicators (KPIs)
 - **Total Sales:** `$1.2M`
 - **Average Sales per Item:** `141`
