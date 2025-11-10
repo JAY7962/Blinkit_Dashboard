@@ -6,6 +6,7 @@ The dashboard enables users to analyze **sales performance**, **item distributio
 
 The goal of this analysis is to help stakeholders make data-driven decisions regarding **product strategy**, **store operations**, and **sales optimization**.
 
+![image alt](https://github.com/JAY7962/Blinkit_Dashboard/blob/dff8329154365c7ed693ecef7cdecd67e9278831/Images/logo.png)
 ---
 
 ## 📊 Dataset Description
